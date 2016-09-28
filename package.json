@@ -1,0 +1,5 @@
+{
+  "name": "ada16",
+  "version": "Ada interpreter and compiler.",
+  "main": "lib/index.js"
+}
